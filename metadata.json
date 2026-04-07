@@ -1,0 +1,5 @@
+{
+  "name": "Character Swap AI",
+  "description": "AI-powered character replacement tool. Transfer a character's identity from one image to the pose and scene of another.",
+  "requestFramePermissions": []
+}
